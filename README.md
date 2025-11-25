@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mattia Alessi
 
-<!--
-**MattiaAlessi/MattiaAlessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven by curiosity, precision, and a determination to build things that last.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Technical Skills
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaAlessi&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MattiaAlessi&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MattiaAlessi&theme=radical&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=MattiaAlessi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+---
+
+## 👁️ Profile Views
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
