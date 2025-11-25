@@ -31,4 +31,4 @@ Driven by curiosity, precision, and a determination to build things that last.
 ---
 
 ## 👁️ Profile Views
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
+![views since 2025/11/25](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
