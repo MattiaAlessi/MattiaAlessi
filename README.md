@@ -4,6 +4,7 @@ Driven by curiosity, precision, and a determination to build things that last.
 
 ---
 
+## 🖥️ Technical Skills
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
