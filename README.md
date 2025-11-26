@@ -1,35 +1,65 @@
-# Mattia Alessi
+# Hi, I'm Mattia Alessi 👋
+<img align="right" src="images/prog_gui.gif" alt="Profile Image" width="300"/>
 
-Driven by curiosity, precision, and a determination to build things that last.
+## 🚀 Quick Facts About Me
+- 🌱 Professional Code Alchemist & Eternal Learner  
+  *(Translation: I break things and call it "learning")*  
+- 💬 Ask me about: Python spells 🐍, Unity game realms 🎮, or fantasy books that keep me up at night 📚  
+- 📫 Reach me at: **mattia4526@gmail.com**  
+  *(I promise I'm better at replying than Netflix is at ending series well)*  
+- ⚡ Secret Power: Turning coffee ☕ into code 💻 with questionable efficiency  
+- 📍 Base of Operations: **Italy 🍝**  
+  *(Yes, the pizza and pasta are as amazing as they say)*  
 
 ---
 
-## 🖥️ Technical Skills:
+## 🛠️ Tech Stack & Digital Playground
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="My digital snake charming skills"/>
   </a>
-
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40" title="Where I create virtual worlds (and then break them)"/>
   </a>
-  </p>
+</p>
+
+*More tools in my belt than a Swiss Army knife at a survival convention*
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaAlessi&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MattiaAlessi&theme=radical&_border=false&include_all_commits=true&count_private=true)
+## 📈 GitHub Analytics - Because Numbers Don't Lie (Usually)
+
+### 🔥 Consistency is Key
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MattiaAlessi&theme=radical&hide_border=false)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Unlocked!
 <img src="https://github-profile-trophy.vercel.app/?username=MattiaAlessi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+*Collecting these like Pokémon cards, but for developers*
 
 ---
 
-## 👁️ Profile Views
-![views since 2025/11/25](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
+## 👀 People Who Stumbled Upon My Digital Cave
+![Visitors](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
+
+*Welcome, brave visitor! You've found the treasure... now where did I put it?*
+
+---
+
+## ⚡ Currently
+- 🎯 Mission: Conquering the digital world, one bug at a time  
+- 📖 Reading: Probably some fantasy novel instead of documentation  
+- 🎮 Playing: With code until it works (or until I break everything)  
+- ☕ Fuel: 80% coffee, 20% determination  
+
+*"Code, coffee, repeat - the developer's mantra" 😄*
+
+---
+
+### P.S.
+If my code works, it's probably a happy accident.  
+If it doesn't, it's *"experimental"*.
