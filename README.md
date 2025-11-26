@@ -1,7 +1,7 @@
 # Hi, I'm Mattia Alessi 👋
-<img align="right" src="images/prog_gui.gif" alt="Profile Image" width="300"/>
 
 ## 🚀 Quick Facts About Me
+<img align="right" src="images/prog_gui.gif" alt="Profile Image" width="300"/>
 - 🌱 Professional Code Alchemist & Eternal Learner  
   *(Translation: I break things and call it "learning")*  
 - 💬 Ask me about: Python spells 🐍, Unity game realms 🎮, or fantasy books that keep me up at night 📚  
@@ -44,7 +44,7 @@
 ---
 
 ## 👀 People Who Stumbled Upon My Digital Cave
-![Visitors](https://visitor-badge-deno.deno.dev/mattiaalessi.mattiaalessi.svg)
+![Visitors](https://visitor-badge-deno.deno.dev/MattiaAlessi.MattiaAlessi.svg)
 
 *Welcome, brave visitor! You've found the treasure... now where did I put it?*
 
