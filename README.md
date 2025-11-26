@@ -5,11 +5,11 @@
 
 - 🌱 Professional Code Alchemist & Eternal Learner  
   *(Translation: I break things and call it "learning")*  
-- 💬 Ask me about: Python spells 🐍, Unity game realms 🎮, or fantasy books that keep me up at night 📚  
+- 💬 Ask me about: Python, Unity or fantasy books that keep me up at night  
 - 📫 Reach me at: **mattia4526@gmail.com**  
   *(I promise I'm better at replying than Netflix is at ending series well)*  
-- ⚡ Secret Power: Turning coffee ☕ into code 💻 with questionable efficiency  
-- 📍 Base of Operations: **Italy 🍝**  
+- ⚡ Secret Power: Turning coffee into code with questionable efficiency  
+- 📍 Base of Operations: **Italy**  
   *(Yes, the pizza and pasta are as amazing as they say)*  
 
 ---
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-*More tools in my belt than a Swiss Army knife at a survival convention*
+*More tools in my belt than a Swiss Army knife*
 
 ---
 
@@ -52,12 +52,9 @@
 ---
 
 ## ⚡ Currently
-- 🎯 Mission: Conquering the digital world, one bug at a time  
 - 📖 Reading: Probably some fantasy novel instead of documentation  
 - 🎮 Playing: With code until it works (or until I break everything)  
 - ☕ Fuel: 80% coffee, 20% determination  
-
-*"Code, coffee, repeat - the developer's mantra" 😄*
 
 ---
 
