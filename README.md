@@ -1,7 +1,8 @@
 # Hi, I'm Mattia Alessi 👋
 
 ## 🚀 Quick Facts About Me
-<img align="right" src="images/prog_gui.gif" alt="Profile Image" width="300"/>
+<img align="right" src="images/prog_gui.gif" alt="Profile Image" width="300"/>  
+
 - 🌱 Professional Code Alchemist & Eternal Learner  
   *(Translation: I break things and call it "learning")*  
 - 💬 Ask me about: Python spells 🐍, Unity game realms 🎮, or fantasy books that keep me up at night 📚  
