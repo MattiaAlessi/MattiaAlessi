@@ -52,8 +52,8 @@
 ---
 
 ## ⚡ Currently
-- 📖 Reading: Probably some fantasy novel instead of documentation  
-- 🎮 Playing: With code until it works (or until I break everything)  
+- 📖 Reading, probably some fantasy novel instead of documentation  
+- 🎮 Playing with code until it works (or until I break everything)  
 - ☕ Fuel: 80% coffee, 20% determination  
 - 🌙 Sleep Schedule: "I'll fix it tomorrow"
 
