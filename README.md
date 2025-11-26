@@ -21,7 +21,7 @@ Driven by curiosity, precision, and a determination to build things that last.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaAlessi&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MattiaAlessi&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MattiaAlessi&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MattiaAlessi&theme=radical&hide_border=false)
 
 ---
