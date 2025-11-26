@@ -5,9 +5,9 @@
 
 - 🌱 Professional Code Alchemist & Eternal Learner  
   *(Translation: I break things and call it "learning")*  
-- 💬 Ask me about: Python, Unity or fantasy books that keep me up at night  
+- 💬 Ask me about: Python, Unity, Pokémon or fantasy books that keep me up at night  
 - 📫 Reach me at: **mattia4526@gmail.com**  
-  *(I promise I'm better at replying than Netflix is at ending series well)*  
+  *(I reply faster than my code compiles)*  
 - ⚡ Secret Power: Turning coffee into code with questionable efficiency  
 - 📍 Base of Operations: **Italy**  
   *(Yes, the pizza and pasta are as amazing as they say)*  
@@ -55,9 +55,14 @@
 - 📖 Reading: Probably some fantasy novel instead of documentation  
 - 🎮 Playing: With code until it works (or until I break everything)  
 - ☕ Fuel: 80% coffee, 20% determination  
+- 🌙 Sleep Schedule: "I'll fix it tomorrow"
 
 ---
 
 ### P.S.
 If my code works, it's probably a happy accident.  
 If it doesn't, it's *"experimental"*.
+
+---
+
+_Last updated: When I remembered to commit_
