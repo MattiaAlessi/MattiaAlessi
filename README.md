@@ -45,7 +45,7 @@
 ---
 
 ## 👀 People Who Stumbled Upon My Digital Cave
-![Visitors](https://visitor-badge-deno.deno.dev/MattiaAlessi.MattiaAlessi.svg)
+![](https://komarev.com/ghpvc/?username=MattiaAlessi&style=for-the-badge)
 
 *Welcome, brave visitor! You've found the treasure... now where did I put it?*
 
