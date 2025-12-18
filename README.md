@@ -39,12 +39,12 @@
 ## 📈 GitHub Analytics - Because Numbers Don't Lie (Usually)
 
 ### 🔥 Consistency is Key
-![](https://github-readme-streak-stats.herokuapp.com/?user=MattiaAlessi&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=MattiaAlessi&theme=dark)
 
 ---
 
 ## 🏆 Achievement Unlocked!
-<img src="https://github-profile-trophy.vercel.app/?username=MattiaAlessi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattiaAlessi&theme=onedark)](https://github.com/MattiaAlessi)
 
 *Collecting these like Pokémon cards, but for developers*
 
