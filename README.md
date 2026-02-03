@@ -26,8 +26,13 @@
   </a>
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="My favourite Editor"/>
   </a>
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+    <img src="images/kali-linux.svg" alt="kali-linux" width="40" height="40" title="My preferred hacking OS"/>
+  </a>
+
 
 </p>
 
