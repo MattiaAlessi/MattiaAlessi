@@ -110,13 +110,13 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
   <tr>
     <td width="50%">
       <b><a href="https://github.com/MattiaAlessi/phantom-keylogger">phantom-keylogger</a></b><br/>
-      🕵️ Stealth keystroke & visual intelligence gathering · security research<br/>
+      🕵️ Stealth keystroke & visual intelligence gathering · for research, obviously 🔒<br/>
       <img src="https://img.shields.io/github/stars/MattiaAlessi/phantom-keylogger?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
       <img src="https://img.shields.io/github/languages/top/MattiaAlessi/phantom-keylogger?style=flat-square&label=Language&color=3B82F6" alt="Language"/>
     </td>
     <td width="50%">
       <b><a href="https://github.com/MattiaAlessi/kokoro-studio">kokoro-studio</a></b><br/>
-      🗣️ Local, free, private neural text-to-speech (PySide6 + Kokoro-82M)<br/>
+      🗣️ Local, free, private neural text-to-speech — your computer finally says things so you don't have to (PySide6 + Kokoro-82M)<br/>
       <img src="https://img.shields.io/github/stars/MattiaAlessi/kokoro-studio?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
       <img src="https://img.shields.io/github/languages/top/MattiaAlessi/kokoro-studio?style=flat-square&label=Language&color=38BDF8" alt="Language"/>
     </td>
@@ -124,13 +124,13 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
   <tr>
     <td width="50%">
       <b><a href="https://github.com/MattiaAlessi/tictactoe-ai">tictactoe-ai</a></b><br/>
-      🧠 Neural Network Tic-Tac-Toe AI built with PyTorch (it never loses... to me)<br/>
+      🧠 Neural Network Tic-Tac-Toe AI built with PyTorch — it never loses... to me, which says more about me than the AI<br/>
       <img src="https://img.shields.io/github/stars/MattiaAlessi/tictactoe-ai?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
       <img src="https://img.shields.io/github/languages/top/MattiaAlessi/tictactoe-ai?style=flat-square&label=Language&color=3B82F6" alt="Language"/>
     </td>
     <td width="50%">
       <b><a href="https://github.com/MattiaAlessi/Morse">Morse</a></b><br/>
-      📡 Python library for text ↔ Morse code conversion & audio generation<br/>
+      📡 Python library for text ↔ Morse code conversion & audio generation — for when binary isn't dramatic enough<br/>
       <img src="https://img.shields.io/github/stars/MattiaAlessi/Morse?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
       <img src="https://img.shields.io/github/languages/top/MattiaAlessi/Morse?style=flat-square&label=Language&color=38BDF8" alt="Language"/>
     </td>
