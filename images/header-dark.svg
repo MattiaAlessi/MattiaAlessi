@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" role="img" aria-label="Mattia Alessi — software developer, game developer and security enthusiast">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0b10"/>
-      <stop offset="0.55" stop-color="#181113"/>
-      <stop offset="1" stop-color="#230f10"/>
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="0.55" stop-color="#0f1b3d"/>
+      <stop offset="1" stop-color="#0a2540"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.35" r="0.75">
-      <stop offset="0" stop-color="#dc2626" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f87171"/>
-      <stop offset="1" stop-color="#dc2626"/>
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#3b82f6"/>
     </linearGradient>
   </defs>
 
@@ -20,50 +20,50 @@
   <rect width="1000" height="320" fill="url(#glow)"/>
 
   <!-- faint decorative symbols -->
-  <text x="60" y="64" font-family="'Fira Code', Consolas, monospace" font-size="48" fill="#dc2626" opacity="0.12">$</text>
-  <text x="906" y="78" font-family="'Fira Code', Consolas, monospace" font-size="72" fill="#dc2626" opacity="0.12">&lt;/&gt;</text>
-  <text x="112" y="304" font-family="'Fira Code', Consolas, monospace" font-size="54" fill="#f87171" opacity="0.12">{ }</text>
-  <text x="838" y="302" font-family="'Fira Code', Consolas, monospace" font-size="42" fill="#f87171" opacity="0.12">_</text>
+  <text x="60" y="64" font-family="'Fira Code', Consolas, monospace" font-size="48" fill="#38bdf8" opacity="0.12">$</text>
+  <text x="906" y="78" font-family="'Fira Code', Consolas, monospace" font-size="72" fill="#38bdf8" opacity="0.12">&lt;/&gt;</text>
+  <text x="112" y="304" font-family="'Fira Code', Consolas, monospace" font-size="54" fill="#60a5fa" opacity="0.12">{ }</text>
+  <text x="838" y="302" font-family="'Fira Code', Consolas, monospace" font-size="42" fill="#60a5fa" opacity="0.12">_</text>
 
   <!-- floating particles -->
-  <circle cx="90" cy="230" r="3" fill="#ef4444" opacity="0.5">
+  <circle cx="90" cy="230" r="3" fill="#38bdf8" opacity="0.5">
     <animate attributeName="cy" values="230;200;230" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0.15;0.5" dur="7s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="180" cy="300" r="2.4" fill="#f87171" opacity="0.45">
+  <circle cx="180" cy="300" r="2.4" fill="#60a5fa" opacity="0.45">
     <animate attributeName="cy" values="300;268;300" dur="9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.45;0.12;0.45" dur="9s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="330" cy="292" r="2" fill="#ef4444" opacity="0.4">
+  <circle cx="330" cy="292" r="2" fill="#38bdf8" opacity="0.4">
     <animate attributeName="cy" values="292;258;292" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="520" cy="252" r="2.6" fill="#f87171" opacity="0.4">
+  <circle cx="520" cy="252" r="2.6" fill="#60a5fa" opacity="0.4">
     <animate attributeName="cy" values="252;214;252" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;0.1;0.4" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="880" cy="200" r="3" fill="#ef4444" opacity="0.5">
+  <circle cx="880" cy="200" r="3" fill="#38bdf8" opacity="0.5">
     <animate attributeName="cy" values="200;170;200" dur="7.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="760" cy="282" r="2.2" fill="#f87171" opacity="0.4">
+  <circle cx="760" cy="282" r="2.2" fill="#60a5fa" opacity="0.4">
     <animate attributeName="cy" values="282;248;282" dur="10s" repeatCount="indefinite"/>
   </circle>
 
   <!-- terminal window -->
   <g>
-    <rect x="56" y="64" width="420" height="192" rx="14" fill="#0d1117" stroke="#dc2626" stroke-opacity="0.3" stroke-width="1.5"/>
+    <rect x="56" y="64" width="420" height="192" rx="14" fill="#0b1220" stroke="#3b82f6" stroke-opacity="0.35" stroke-width="1.5"/>
     <circle cx="84" cy="88" r="6" fill="#f87171"/>
     <circle cx="106" cy="88" r="6" fill="#fbbf24"/>
     <circle cx="128" cy="88" r="6" fill="#34d399"/>
-    <text x="266" y="93" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="12" fill="#6b7280">mattia@alessi: ~</text>
-    <line x1="56" y1="108" x2="476" y2="108" stroke="#1f2937" stroke-width="1"/>
+    <text x="266" y="93" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="12" fill="#64748b">mattia@alessi: ~</text>
+    <line x1="56" y1="108" x2="476" y2="108" stroke="#1e293b" stroke-width="1"/>
 
-    <text x="76" y="132" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#f87171">$ whoami</text>
-    <text x="92" y="156" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#e5e7eb">Mattia Alessi</text>
-    <text x="76" y="184" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#f87171">$ cat stack.txt</text>
-    <text x="92" y="208" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#ef4444">Python · C# / Unity · Security</text>
-    <text x="76" y="236" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#f87171">$ echo $STATUS</text>
-    <text x="92" y="260" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#e5e7eb">Open to opportunities</text>
-    <rect x="286" y="247" width="9" height="15" rx="1.5" fill="#ef4444">
+    <text x="76" y="132" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#60a5fa">$ whoami</text>
+    <text x="92" y="156" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#e2e8f0">Mattia Alessi</text>
+    <text x="76" y="184" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#60a5fa">$ cat stack.txt</text>
+    <text x="92" y="208" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#38bdf8">Python · C# / Unity · Security</text>
+    <text x="76" y="236" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#60a5fa">$ echo $STATUS</text>
+    <text x="92" y="260" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#e2e8f0">Open to opportunities</text>
+    <rect x="286" y="247" width="9" height="15" rx="1.5" fill="#38bdf8">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>
@@ -71,17 +71,17 @@
   <!-- title -->
   <text x="520" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" fill="url(#titleGrad)">Mattia Alessi</text>
   <rect x="522" y="146" width="230" height="3.5" rx="1.75" fill="url(#titleGrad)"/>
-  <text x="520" y="178" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#9ca3af">Software Developer · Game Dev · Security Enthusiast</text>
+  <text x="520" y="178" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#94a3b8">Software Developer · Game Dev · Security Enthusiast</text>
 
   <!-- chips -->
   <g font-family="'Fira Code', Consolas, monospace" font-size="13.5">
-    <rect x="520" y="200" width="96" height="30" rx="8" fill="#161314" stroke="#dc2626" stroke-opacity="0.45"/>
-    <text x="568" y="220" text-anchor="middle" fill="#f87171">Python</text>
-    <rect x="626" y="200" width="72" height="30" rx="8" fill="#161314" stroke="#ef4444" stroke-opacity="0.45"/>
-    <text x="662" y="220" text-anchor="middle" fill="#ef4444">C#</text>
-    <rect x="708" y="200" width="88" height="30" rx="8" fill="#161314" stroke="#dc2626" stroke-opacity="0.45"/>
-    <text x="752" y="220" text-anchor="middle" fill="#f87171">Unity</text>
-    <rect x="806" y="200" width="126" height="30" rx="8" fill="#161314" stroke="#ef4444" stroke-opacity="0.45"/>
-    <text x="869" y="220" text-anchor="middle" fill="#ef4444">Security</text>
+    <rect x="520" y="200" width="96" height="30" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-opacity="0.45"/>
+    <text x="568" y="220" text-anchor="middle" fill="#60a5fa">Python</text>
+    <rect x="626" y="200" width="72" height="30" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="662" y="220" text-anchor="middle" fill="#38bdf8">C#</text>
+    <rect x="708" y="200" width="88" height="30" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-opacity="0.45"/>
+    <text x="752" y="220" text-anchor="middle" fill="#60a5fa">Unity</text>
+    <rect x="806" y="200" width="126" height="30" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="869" y="220" text-anchor="middle" fill="#38bdf8">Security</text>
   </g>
 </svg>
