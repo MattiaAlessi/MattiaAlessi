@@ -38,14 +38,14 @@ $ echo $MOTTO
 
 <img align="right" src="images/prog_gui.gif" alt="Profile image" width="200"/>
 
-I'm **Mattia Alessi**, a developer from **Italy** who loves building tools with **Python**, crafting games with **Unity & C#**, and exploring **security & networking**. I care about writing clean, working code — and I'm always learning something new (usually the hard way).
+I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python**, crafts games with **Unity & C#**, and explores **security & networking** — ethically, of course. I write code that works *eventually*, and I'm convinced the best way to learn is to break things first.
 
 | 💼 Role | 🏠 Location | 🌍 Languages | 📬 Contact |
 |:---|:---|:---|:---|
 | Student | Italy 🇮🇹 | Italian (native) · English | [mattia4526@gmail.com](mailto:mattia4526@gmail.com) |
 
-- 🌱 Currently deepening my **security & networking** knowledge
-- 🤝 Open to collaboration and new opportunities
+- 🌱 Deep-diving into **security & networking** (and the rabbit holes that come with it)
+- 🤝 Open to collaboration — and to anyone who can explain DNS in one sentence
 
 ---
 
@@ -155,18 +155,18 @@ I'm **Mattia Alessi**, a developer from **Italy** who loves building tools with 
 
 ## ⚡ Fun Facts
 
-- ☕ Fuel: 80% coffee, 20% determination
-- 🎮 Playing with code until it works (or until I break everything)
-- 📖 Probably reading a fantasy novel instead of documentation
-- 💤 Sleep schedule: "I'll fix it tomorrow"
+- ☕ Fuel: 80% coffee, 19% curiosity, 1% deadline-induced panic
+- 🎮 Playing with code until it works — or until I break something I can't explain
+- 📖 Reading a fantasy novel instead of the docs. Zero regrets.
+- 💤 Sleep schedule: "I'll fix it tomorrow" (tomorrow is a state of mind)
 
 <details>
 <summary><b>🍿 Click here to unlock professional secrets</b></summary>
 
-- My code runs perfectly... in my head
-- 90% of my debugging is adding `print()` statements
-- I once fixed a bug by turning it off and on again. It worked.
-- My most detailed comment: `# TODO: fix this`
+- My code runs perfectly... in my head. Reality is a different runtime.
+- 90% of my debugging is `print()` statements; the other 10% is Googling the exact error message
+- I once fixed a bug by turning it off and on again. I still bring it up at parties.
+- My most detailed code comment to date: `# TODO: fix this`
 
 </details>
 
