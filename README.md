@@ -1,13 +1,24 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg">
-    <img src="images/header-light.svg" alt="Mattia Alessi banner" width="100%"/>
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=540&lines=Software+Developer;Python+%26+C%23+Developer;Unity+Game+Developer;Security+%26+Networking+Enthusiast;Open+to+opportunities" alt="Typing animation"/>
-</p>
+
+
+<div align="center">
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=mattiaalessi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201619049%3Fu%3D8c89ad8a2b589edf30eb7ef6854c4cec88c7f439%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=mattiaalessi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201619049%3Fu%3D8c89ad8a2b589edf30eb7ef6854c4cec88c7f439%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Mattia animated terminal portrait" />
+</picture>
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/MattiaAlessi?style=for-the-badge&logo=github&color=181717&label=Followers" alt="Followers"/>
@@ -20,55 +31,78 @@
   <img src="https://img.shields.io/badge/Professional-Stack_Overflow_Searcher-374151?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Professional Stack Overflow searcher"/>
   <img src="https://img.shields.io/badge/99.9%25-Caffeine-3B82F6?style=for-the-badge" alt="99.9% caffeine"/>
 </p>
+</div>
+
+---
+
+## <code>mattiaalessi@github ~ $ neofetch --live</code>
+
+<img align="right" src="images/prog_gui.gif" alt="Profile image" width="200"/>
+
+I'm a **tech enthusiast** from **Italy** who builds tools with **Python**, crafts games with **Unity & C#**, and explores **security & networking**, ethically, of course.  
+I love exploring new programming languages and development tools.  
+I write code that works *eventually*, and I'm convinced the best way to learn is to break things first.
+
+- 💬 Languages spoken: **Italian** (native) · **English** (fluent/working)
+- 📫 Contacts: [mattia4526@gmail.com](mailto:mattia4526@gmail.com)
+- 🌱 Deep diving into **security & networking** (and the rabbit holes that come with it)
+- 🤝 Open to collaboration (expecially to anyone who can explain DNS in one sentence)
+
+---
+
+
+## <code>$ tail -n 7 /var/log/build.log</code>
+
+<pre><code>[ok] identity loaded: Mattia
+[ok] role detected: CS student
+[ok] environment: GitHub public cloud
+[ok] workspace: independent
+[ok] coordinates: Italy
+
+<p>Building, learning, and shipping useful systems.</p></pre>
+
+
+## <code>$ ./status --current</code>
 
 ```text
-$ ./status --current
   📚 Learning:   Security & Networking            ██████████░ 90%
   ⚡ Improving:  phantom-keylogger v2             ████████░░░ 80%
   🎨 Building:   kokoro-studio (TTS desktop app)  ██████░░░░░ 60%
   🎮 Exploring:  Unity game prototypes            ████░░░░░░ 40%
+```
 
-$ echo $MOTTO
+## <code>$ echo $MOTTO</code>
+```text
   "If it works, it's a happy accident. If it doesn't, it's 'experimental'."
 ```
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" src="images/prog_gui.gif" alt="Profile image" width="200"/>
-
-I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python**, crafts games with **Unity & C#**, and explores **security & networking** — ethically, of course. I write code that works *eventually*, and I'm convinced the best way to learn is to break things first.
-
-| 💼 Role | 🏠 Location | 🌍 Languages | 📬 Contact |
-|:---|:---|:---|:---|
-| Student | Italy 🇮🇹 | Italian (native) · English | [mattia4526@gmail.com](mailto:mattia4526@gmail.com) |
-
-- 🌱 Deep-diving into **security & networking** (and the rabbit holes that come with it)
-- 🤝 Open to collaboration — and to anyone who can explain DNS in one sentence
-
----
-
-## 🛠️ Tech Stack
+## <code>$ cat /proc/sys/tech_stack</code>
 
 **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,html&perline=8" alt="Python, C#, HTML"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js&perline=8" alt="Python, C#, HTML, CSS, JavaScript"/>
 </p>
 
 **Game Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity&perline=8" alt="Unity"/>
+  <img src="https://skillicons.dev/icons?i=unity,blender&perline=8" alt="Unity, Blender"/>
 </p>
 
-**Tools & Security**
+**Security, Networking & OS**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,kali,pytorch&perline=8" alt="Git, GitHub, VS Code, Linux, Bash, Kali, PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali&perline=8" alt="Linux, Bash, Kali Linux, Wireshark"/>
+</p>
+
+**Frameworks, AI & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode&perline=8" alt="PyTorch, Git, GitHub, VS Code"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## <code>$ gh system stats --user MattiaAlessi</code>
 
 <p align="center">
   <a href="https://github.com/MattiaAlessi">
@@ -83,9 +117,6 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
   <img src="https://streak-stats.demolab.com?user=MattiaAlessi&theme=transparent&ring=3B82F6&fire=38BDF8&currStreakNum=60A5FA&sideNums=60A5FA&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=3B82F6&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattiaAlessi&bg_color=00000000&color=60A5FA&line=3B82F6&point=38BDF8&area_color=3B82F6&hide_border=true&custom_title=Recent%20Activity&area=true" alt="Recent activity graph"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MattiaAlessi/MattiaAlessi/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph"/>
@@ -93,7 +124,7 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
 
 ---
 
-## 🐍 Contribution Snake
+## <code>$ python3 ./snake.py --exec</code>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MattiaAlessi/MattiaAlessi/output/github-contribution-grid-snake-dark.svg" />
@@ -104,64 +135,40 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
 
 ---
 
-## 🚀 Featured Projects
+## <code>$ find ~/projects -type f -name "featured*"</code>
 
-<table>
-  <tr>
-    <td width="50%">
-      <b><a href="https://github.com/MattiaAlessi/phantom-keylogger">phantom-keylogger</a></b><br/>
-      🕵️ Stealth keystroke & visual intelligence gathering · for research, obviously 🔒<br/>
-      <img src="https://img.shields.io/github/stars/MattiaAlessi/phantom-keylogger?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
-      <img src="https://img.shields.io/github/languages/top/MattiaAlessi/phantom-keylogger?style=flat-square&label=Language&color=3B82F6" alt="Language"/>
-    </td>
-    <td width="50%">
-      <b><a href="https://github.com/MattiaAlessi/kokoro-studio">kokoro-studio</a></b><br/>
-      🗣️ Local, free, private neural text-to-speech — your computer finally says things so you don't have to (PySide6 + Kokoro-82M)<br/>
-      <img src="https://img.shields.io/github/stars/MattiaAlessi/kokoro-studio?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
-      <img src="https://img.shields.io/github/languages/top/MattiaAlessi/kokoro-studio?style=flat-square&label=Language&color=38BDF8" alt="Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b><a href="https://github.com/MattiaAlessi/tictactoe-ai">tictactoe-ai</a></b><br/>
-      🧠 Neural Network Tic-Tac-Toe AI built with PyTorch — it never loses... to me, which says more about me than the AI<br/>
-      <img src="https://img.shields.io/github/stars/MattiaAlessi/tictactoe-ai?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
-      <img src="https://img.shields.io/github/languages/top/MattiaAlessi/tictactoe-ai?style=flat-square&label=Language&color=3B82F6" alt="Language"/>
-    </td>
-    <td width="50%">
-      <b><a href="https://github.com/MattiaAlessi/Morse">Morse</a></b><br/>
-      📡 Python library for text ↔ Morse code conversion & audio generation — for when binary isn't dramatic enough<br/>
-      <img src="https://img.shields.io/github/stars/MattiaAlessi/Morse?style=flat-square&label=Stars&color=FFD700" alt="Stars"/>
-      <img src="https://img.shields.io/github/languages/top/MattiaAlessi/Morse?style=flat-square&label=Language&color=38BDF8" alt="Language"/>
-    </td>
-  </tr>
-</table>
-
+<!-- featured:start -->
+<pre><code>
+[01] <a href="https://github.com/MattiaAlessi/phantom-keylogger"><code>phantom-keylogger</code></a>     HTML       ★ 77    keystroke & screen capture · security research
+[02] <a href="https://github.com/MattiaAlessi/Narrator"><code>Narrator</code></a>              Python     ★  3    local TTS GUI for Kokoro-82M, voice cloning
+[03] <a href="https://github.com/MattiaAlessi/miningflow"><code>miningflow</code></a>            TypeScript ★  2    data mining & workflow tool
+[04] <a href="https://github.com/MattiaAlessi/tictactoe-ai"><code>tictactoe-ai</code></a>          Python     ★  0    neural network tic-tac-toe agent (PyTorch)
+</code></pre>
+<!-- featured:end -->
 ---
-
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:mattia4526@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mattia4526%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/MattiaAlessi">
-    <img src="https://img.shields.io/badge/GitHub-MattiaAlessi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Add your LinkedIn or portfolio link here -->
+  <a href="mailto:mattia4526@gmail.com" title="Send email" style="color: #3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=gmail&perline=4" alt="gmail" /></kbd></a>
+  <a href="https://github.com/MattiaAlessi" title="GitHub profile" style="color: #3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=github&perline=4" alt="github" /></kbd></a>
+</p>
+
+<p align="center">
+  <a href="mailto:mattia4526@gmail.com" style="color: #3b82f6;">✉️ mattia4526@gmail.com</a>
+  <a href="https://github.com/MattiaAlessi" style="color: #3b82f6;">💻 GitHub: MattiaAlessi</a>
 </p>
 
 ---
 
 ## ⚡ Fun Facts
 
-- ☕ Fuel: 80% coffee, 19% curiosity, 1% deadline-induced panic
-- 🎮 Playing with code until it works — or until I break something I can't explain
-- 📖 Reading a fantasy novel instead of the docs. Zero regrets.
-- 💤 Sleep schedule: "I'll fix it tomorrow" (tomorrow is a state of mind)
+- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=terminal&perline=4" alt="terminal" /></kbd> Fuel: 80% coffee, 19% curiosity, 1% deadline-induced panic</span>
+- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=git&perline=4" alt="git" /></kbd> Playing with code until it works — or until I break something I can't explain</span>
+- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=python&perline=4" alt="python" /></kbd> Reading a fantasy novel instead of the docs. Zero regrets.</span>
+- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=linux&perline=4" alt="linux" /></kbd> Sleep schedule: "I'll fix it tomorrow" (tomorrow is a state of mind)</span>
 
 <details>
-<summary><b>🍿 Click here to unlock professional secrets</b></summary>
+<summary><b><span style="color:#3b82f6;">Click here to unlock professional secrets</span></b></summary>
 
 - My code runs perfectly... in my head. Reality is a different runtime.
 - 90% of my debugging is `print()` statements; the other 10% is Googling the exact error message
@@ -173,7 +180,3 @@ I'm **Mattia Alessi**, a developer from **Italy** who builds tools with **Python
 *If my code works, it's probably a happy accident. If it doesn't, it's "experimental".*
 
 ---
-
-<p align="center">
-  <img src="images/footer.svg" alt="footer wave" width="100%"/>
-</p>

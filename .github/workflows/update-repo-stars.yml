@@ -1,0 +1,41 @@
+name: Update repo stars
+
+on:
+  schedule:
+    # Every day at 01:30 UTC.
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-repo-stars
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Refresh the featured repo stars
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Render the live star counts into README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/render_repo_stars.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Star counts already up to date - nothing to commit."
+          else
+            git commit -m "chore: refresh featured repo star counts"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push
+          fi
