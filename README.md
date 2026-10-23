@@ -146,37 +146,38 @@ I write code that works *eventually*, and I'm convinced the best way to learn is
 </code></pre>
 <!-- featured:end -->
 ---
-## 📫 Get in Touch
+## <code>$ cat ~/.contact</code>
 
-<p align="center">
-  <a href="mailto:mattia4526@gmail.com" title="Send email" style="color: #3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=gmail&perline=4" alt="gmail" /></kbd></a>
-  <a href="https://github.com/MattiaAlessi" title="GitHub profile" style="color: #3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=github&perline=4" alt="github" /></kbd></a>
-</p>
-
-<p align="center">
-  <a href="mailto:mattia4526@gmail.com" style="color: #3b82f6;">✉️ mattia4526@gmail.com</a>
-  <a href="https://github.com/MattiaAlessi" style="color: #3b82f6;">💻 GitHub: MattiaAlessi</a>
-</p>
+<pre><code>
+[mail]  <a href="mailto:mattia4526@gmail.com"><code>mattia4526@gmail.com</code></a>
+[gh]    <a href="https://github.com/MattiaAlessi"><code>github.com/MattiaAlessi</code></a>
+</code></pre>
 
 ---
 
-## ⚡ Fun Facts
+## <code>$ cat /etc/fun_facts</code>
 
-- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=terminal&perline=4" alt="terminal" /></kbd> Fuel: 80% coffee, 19% curiosity, 1% deadline-induced panic</span>
-- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=git&perline=4" alt="git" /></kbd> Playing with code until it works — or until I break something I can't explain</span>
-- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=python&perline=4" alt="python" /></kbd> Reading a fantasy novel instead of the docs. Zero regrets.</span>
-- <span style="color:#3b82f6;"><kbd><img src="https://skillicons.dev/icons?i=linux&perline=4" alt="linux" /></kbd> Sleep schedule: "I'll fix it tomorrow" (tomorrow is a state of mind)</span>
+```text
+  [01]  Fuel: 80% coffee, 19% curiosity, 1% deadline-induced panic
+  [02]  Playing with code until it works — or until I break something I can't explain
+  [03]  Reading a fantasy novel instead of the docs. Zero regrets.
+  [04]  Sleep schedule: "I'll fix it tomorrow" (tomorrow is a state of mind)
+```
 
 <details>
-<summary><b><span style="color:#3b82f6;">Click here to unlock professional secrets</span></b></summary>
+<summary><b><code>$ sudo cat /root/secrets.txt</code></b></summary>
 
-- My code runs perfectly... in my head. Reality is a different runtime.
-- 90% of my debugging is `print()` statements; the other 10% is Googling the exact error message
-- I once fixed a bug by turning it off and on again. I still bring it up at parties.
-- My most detailed code comment to date: `# TODO: fix this`
+```text
+  [!]   My code runs perfectly... in my head. Reality is a different runtime.
+  [!]   90% of my debugging is print() statements; the other 10% is Googling the exact error message
+  [!]   I once fixed a bug by turning it off and on again. I still bring it up at parties.
+  [!]   My most detailed code comment to date: # TODO: fix this
+```
 
 </details>
 
-*If my code works, it's probably a happy accident. If it doesn't, it's "experimental".*
+```text
+  # If my code works, it's probably a happy accident. If it doesn't, it's "experimental".
+```
 
 ---
