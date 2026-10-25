@@ -140,7 +140,7 @@ I write code that works *eventually*, and I'm convinced the best way to learn is
 <!-- featured:start -->
 <pre><code>
 [01] <a href="https://github.com/MattiaAlessi/phantom-keylogger"><code>phantom-keylogger</code></a>     HTML       ★ 77    keystroke & screen capture · security research
-[02] <a href="https://github.com/MattiaAlessi/Narrator"><code>Narrator</code></a>              Python     ★  3    local TTS GUI for Kokoro-82M, voice cloning
+[02] <a href="https://github.com/MattiaAlessi/Narrator"><code>Narrator</code></a>              Python     ★  4    local TTS GUI for Kokoro-82M, voice cloning
 [03] <a href="https://github.com/MattiaAlessi/miningflow"><code>miningflow</code></a>            TypeScript ★  2    data mining & workflow tool
 [04] <a href="https://github.com/MattiaAlessi/tictactoe-ai"><code>tictactoe-ai</code></a>          Python     ★  0    neural network tic-tac-toe agent (PyTorch)
 </code></pre>
