@@ -11,9 +11,9 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="100%" style="width:100%;" valign="middle" align="center">
+  
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=mattiaalessi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201619049%3Fu%3D8c89ad8a2b589edf30eb7ef6854c4cec88c7f439%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=mattiaalessi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201619049%3Fu%3D8c89ad8a2b589edf30eb7ef6854c4cec88c7f439%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Mattia animated terminal portrait" />
+  <img align="centre" src="images/prog_gui.gif" alt="Profile image" width="680"/>
 </picture>
 </td>
 </tr>
