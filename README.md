@@ -13,7 +13,7 @@
 <td width="100%" style="width:100%;" valign="middle" align="center">
   
 <picture>
-  <img align="centre" src="images/prog_gui.gif" alt="Profile image" width="680"/>
+  <img align="centre" src="images/IMG_INI.png" alt="Profile image" width="680"/>
 </picture>
 </td>
 </tr>
